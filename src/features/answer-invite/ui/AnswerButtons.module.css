@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.noButton {
+    position: relative;
+    transition: transform 0.2s ease;
+}

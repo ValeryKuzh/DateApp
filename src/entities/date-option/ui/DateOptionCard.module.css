@@ -1,0 +1,37 @@
+.card {
+    border: 2px solid #ffe0e6;
+    border-radius: 16px;
+    padding: 16px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.card:hover {
+    border-color: #ff4d4d;
+    transform: translateY(-4px);
+}
+
+.selected {
+    border-color: #ff4d4d;
+    background-color: #fff5f6;
+}
+
+.emoji {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 4px 0;
+    color: #2b2b2b;
+}
+
+.description {
+    font-size: 13px;
+    color: #666666;
+    margin: 0;
+}

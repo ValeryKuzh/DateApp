@@ -1,0 +1,28 @@
+.page {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff0f3;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.successTitle {
+    font-size: 32px;
+    color: #ff4d4d;
+    margin-bottom: 16px;
+}
+
+.details {
+    font-size: 18px;
+    color: #4a4a4a;
+    margin: 10px 0;
+}
+
+.subtext {
+    font-size: 16px;
+    color: #777777;
+    margin-top: 20px;
+}
